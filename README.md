@@ -1,9 +1,18 @@
 
 # Ignite Lab Design System
 
-Ignite Lab is a short course provided by Rocketseat that teaches advanced topics in web development. This course took four days to watch and code along with teacher Diego Fernandes
+Ignite Lab is a short course provided by Rocketseat that teaches advanced topics in web development. This course took four days to watch and code along with teacher Diego Fernandes.
 
 ![storybook screenshot](src\assets\storybook-print-screen.jpeg)
+
+
+Below you can check important information about what the project is:
+
+## Cool stuff
+
+ - Check the [Project Deployment](https://lucasjantschchitolina.github.io/ignite-lab-design-system)
+ - Explore the [Figma Project](https://www.figma.com/file/bPnHBon9e5sFj0MQVsyA1H/Ignite-Lab?node-id=0%3A1)
+ 
 
 ## Learning
 
