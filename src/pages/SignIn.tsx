@@ -5,14 +5,21 @@ import { TextInput } from "../components/TextInput";
 import { Text } from "../components/Text";
 import { Checkbox } from "../components/Checkbox";
 
+import axios from 'axios';
+
 import { Envelope, Lock } from "phosphor-react";
 import { Logo } from "../assets/Logo";
 
 export function SignIn() {
     const [isUserSignedIn, setIsUserSignedIn] = useState(false)
 
-    function handleSignIn(event: FormEvent){
+    async function handleSignIn(event: FormEvent){
       event.preventDefault();
+
+      await axios.post("/sessions", {
+        email: 'diego@rocketseat.com.br',
+        password: '123456789'
+      })
 
       setIsUserSignedIn(true);
     }
