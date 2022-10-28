@@ -3,7 +3,7 @@
 
 Ignite Lab is a short course provided by Rocketseat that teaches advanced topics in web development. This course took four days to watch and code along with teacher Diego Fernandes.
 
-![storybook screenshot](src\assets\storybook-print-screen.jpeg)
+![storybook screenshot](https://github.com/LucasJantschChitolina/ignite-lab-design-system/blob/main/src/assets/storybook-print-screen.jpeg?raw=true)
 
 
 Below you can check important information about what the project is:
