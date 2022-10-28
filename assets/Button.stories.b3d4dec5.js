@@ -1,0 +1,2 @@
+import{B as t}from"./Button.822551a8.js";import"./index.module.b22353cc.js";import"./index.d9ada18b.js";import"./iframe.33b9335e.js";import"./clsx.m.256e9345.js";import"./jsx-runtime.884e0521.js";const s={title:"Components/Button",component:t,args:{children:"Click me"},argTypes:{}},i={},a=["Default"];export{i as Default,a as __namedExportsOrder,s as default};
+//# sourceMappingURL=Button.stories.b3d4dec5.js.map
